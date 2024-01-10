@@ -65,7 +65,7 @@ print(mse)
 
 """plotting the regression line:"""
 
-plt.plot(x_test, predictions, color='red',linewidth=2, label='Regression Line')
+plt.plot(y_test, predictions, color='red',linewidth=2, label='Regression Line')
 plt.xlabel('x')
 plt.ylabel('y')
 plt.legend()
