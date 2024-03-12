@@ -1,4 +1,4 @@
-# Machine Learning Applications
+# Machine Learning From Scratch
 
 This repository, "Machine-Learning-Applications," provides practical implementations of machine learning applications and concepts. Below is an overview of the available files:
 
